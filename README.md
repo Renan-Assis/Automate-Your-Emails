@@ -19,6 +19,9 @@ You can reach me by: https://www.linkedin.com/in/renancutrimeng/
 UNDERSTANDING FILES:
 
 requirements.txt --> All the external libraries used in this project, you should install them in order to work
+
 Absenteism Report.xlsx --> Excel Spreadsheet randomly created with ChatGPT for educational purposes.
+
 Send_email.py --> The actual code which automates the report being sent by e-mail.
+
 tests.py --> It's an file i will implement later to work on automated tests to see how each function created is working.
